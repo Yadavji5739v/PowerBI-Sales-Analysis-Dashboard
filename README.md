@@ -27,7 +27,7 @@ The project demonstrates skills in:
 # 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="[images/dashboard.png](https://github.com/Yadavji5739v/PowerBI-Sales-Analysis-Dashboard/blob/main/E-commerce%20Sales%20Analysis%20Dashboard.png)" width="900">
+  <img src="(https://github.com/Yadavji5739v/PowerBI-Sales-Analysis-Dashboard/blob/main/E-commerce%20Sales%20Analysis%20Dashboard.png)" width="900">
 </p>
 
 ---
